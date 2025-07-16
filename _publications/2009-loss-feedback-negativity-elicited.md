@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/2009-loss-feedback-negativity-elicited/
 date: 2009-01-01
 venue: "Neuroreport"
-paperurl: ""  # Add real URL if available
-citation: 'Liu, Y., & Gehring, W. J. (2009). "Loss feedback negativity elicited by single- versus conjoined-feature stimuli." <i>Neuroreport</i>, 20(6), 632-636.'
+paperurl: "https://pubmed.ncbi.nlm.nih.gov/19293730/"  # Add real URL if available
+citation: 'Liu Y, Gehring WJ. Loss feedback negativity elicited by single- versus conjoined-feature stimuli. Neuroreport. 2009 Apr 22;20(6):632-6. doi: 10.1097/WNR.0b013e32832a3250. PMID: 19293730.'
+
 ---
