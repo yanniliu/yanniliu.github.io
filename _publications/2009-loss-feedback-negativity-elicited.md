@@ -1,5 +1,6 @@
 ---
 title: "Loss feedback negativity elicited by single- versus conjoined-feature stimuli"
+category: manuscripts
 collection: publications
 permalink: /publication/2009-loss-feedback-negativity-elicited/
 date: 2009-01-01
