@@ -17,7 +17,7 @@ Education
 * Ph.D in Psychology, University of Michigan  
 * B.S. in Psychology, Beijing Normal University
 
-<br>
+
 
 Work Experience
 ======
@@ -30,7 +30,7 @@ Work Experience
   * Carnegie Mellon University  
   * Neuroimaging research in autism
 
-<br>
+
 
 Skills
 ======
@@ -48,7 +48,7 @@ Skills
   * Python  
 * Scientific writing and grant development
 
-<br>
+
 
 Publications
 ======
