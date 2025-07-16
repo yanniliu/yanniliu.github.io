@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
 {% assign portfolio_categories = site.portfolio | map: 'category' | uniq %}
 {% for cat in portfolio_categories %}
   <h2>{{ cat }}</h2>
