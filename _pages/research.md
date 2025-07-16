@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true  
 ---
 
-<h1 style="color:#2a5d9f; font-size:36px;">Research</h1>
-
 <br><br>
 
 ## Research Interests

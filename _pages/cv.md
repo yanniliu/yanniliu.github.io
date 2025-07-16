@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<br><br>
+
 Education
 ======
 * Ph.D in Psychology, University of Michigan
 * B.S. in Psychology, Beijing Normal University
+
+<br>
 
 Work experience
 ======
@@ -25,6 +29,8 @@ Work experience
 * Postdoctral Research Associate
   * Carnegie Mellon University
   * Neuroimaging research in Autism 
+
+<br>
   
 Skills
 ======
@@ -42,6 +48,7 @@ Skills
   * Python
 * Scientific writing and grant development
 
+<br>
 Publications
 ======
  Recent selected publications:
