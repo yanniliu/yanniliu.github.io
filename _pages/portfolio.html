@@ -12,7 +12,7 @@ author_profile: true
   <h2>{{ cat }}</h2>
   {% for item in site.portfolio %}
     {% if item.category == cat %}
-      {% include archive-single.html %}
+      {% include archive-single.html post=item %}
     {% endif %}
   {% endfor %}
 {% endfor %}
