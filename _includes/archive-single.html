@@ -79,6 +79,24 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+	
+    {% if post.bibtexurl %}
+      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
 
+    {% if post.related_publications %}
+      <div class="archive__item-related-pubs">
+        <strong>Related Publications:</strong>
+        <ul>
+        {% for pubid in post.related_publications %}
+          {% assign pub = site.publications | where_exp: "item", "item.permalink contains pubid" | first %}
+          {% if pub %}
+            <li><a href="{{ pub.permalink }}">{{ pub.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+	
   </article>
 </div>

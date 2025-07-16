@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign portfolio_categories = site.portfolio | map: 'category' | uniq %}
+{% for cat in portfolio_categories %}
+  <h2>{{ cat }}</h2>
+  {% for item in site.portfolio %}
+    {% if item.category == cat %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-
