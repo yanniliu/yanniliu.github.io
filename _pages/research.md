@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true  
 ---
 
-<br><br>
+<br>
 
 ## Research Interests
 

@@ -4,7 +4,7 @@ permalink: /links/
 author_profile: true  
 ---
 
-<br><br>
+<br>
 
 Here are some useful links related to my research, collaborations, and professional activities:
 
