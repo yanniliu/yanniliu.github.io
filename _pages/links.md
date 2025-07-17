@@ -25,6 +25,9 @@ Here are some useful links related to my research, collaborations, and professio
 - [BrainNet Viewer](https://www.nitrc.org/projects/bnv/)
 - [CONN toolbox](https://web.conn-toolbox.org/)
 - [ME-ICA](https://github.com/ME-ICA)
+- [Neurosynth](https://neurosynth.org/)
+- [NeuroQuery](https://neuroquery.org/)
+- [MRIcron](https://www.nitrc.org/projects/mricron)
 
 ## EEG Analysis Software & Resources
 
