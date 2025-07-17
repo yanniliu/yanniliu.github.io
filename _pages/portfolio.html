@@ -6,13 +6,15 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% assign cats = "Speech and Language|Neurodevelopment|ABC" | split: "|" %}
-{% for cat in cats %}
-  <h2>{{ cat }}</h2>
-  {% for item in site.portfolio %}
-    {% if item.category == cat %}
-      {% assign post = item %}
-      {% include archive-single.html %}
-    {% endif %}
+<div class="portfolio-page">
+  {% assign cats = "Speech and Language|Neurodevelopment|ABC" | split: "|" %}
+  {% for cat in cats %}
+    <h2>{{ cat }}</h2>
+    {% for item in site.portfolio %}
+      {% if item.category == cat %}
+        {% assign post = item %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-{% endfor %}
+</div>
