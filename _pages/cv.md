@@ -16,13 +16,20 @@ redirect_from:
 
 ## Work Experience
 
+- **University of Michigan**
+  - _Associate Research Scientist, 2024–present_ 
+  - _Research Assistant Professor, 2018–2024_	
+  - _Research Investigator, 2014–2018_
+
+    Conduct neuroimaging research on behavioral and brain function, and develop and evaluate treatments (e.g., cognitive training and brain stimulation) in both typical and atypical development.
+
 - **University of Michigan**  
-  _Postdoctoral Research Associate_  
-  Brain function in normal and abnormal brain development
+  _Postdoctoral Research Associate, 2012–2014_  
+  Investigated brain function in normal and abnormal brain development.
 
 - **Carnegie Mellon University**  
-  _Postdoctoral Research Associate_  
-  Neuroimaging research in autism
+  _Postdoctoral Research Associate, 2008–2012_  
+  Conducted neuroimaging research in autism spectrum disorders.
 
 ## Skills
 
