@@ -12,12 +12,12 @@ author_profile: true
   {% for item in site.portfolio %}
     {% if item.category == cat %}
       {% include archive-single.html post=item %}
-    {% endif %}
-	{% for post in site.portfolio %}
+    {% endif %}	
+  {% endfor %}
+  
+  {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
-	
-  {% endfor %}
 {% endfor %}
 
