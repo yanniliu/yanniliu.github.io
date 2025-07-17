@@ -7,28 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-{%- assign cats = site.portfolio | map: 'category' | compact | uniq | sort -%}
-{%- if cats.size == 0 -%}
-  <!-- No categories found, just output everything flat -->
-  {% for post in site.portfolio %}
-    {% include archive-single.html post=post %}
+{% assign cats = site.portfolio | map: 'category' | compact | uniq | sort %}
+{% for cat in cats %}
+  <h2>{{ cat }}</h2>
+  {% for item in site.portfolio %}
+    {% if item.category == cat %}
+      {% assign post = item %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
-{%- else -%}
-  {% for cat in cats %}
-    <h2>{{ cat }}</h2>
-    {% for item in site.portfolio %}
-      {% if item.category == cat %}
-        {% include archive-single.html post=item %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+{% endfor %}
 
-  {#-- Output uncategorized items, if any --#}
-  {% assign uncategorized = site.portfolio | reject: 'category' %}
-  {% if uncategorized.size > 0 %}
-    <h2>Uncategorized</h2>
-    {% for item in uncategorized %}
-      {% include archive-single.html post=item %}
-    {% endfor %}
-  {% endif %}
-{%- endif -%}
+{% comment %}
+  Output uncategorized items, if any
+{% endcomment %}
+{% assign uncategorized = site.portfolio | reject: "category" %}
+{% if uncategorized.size > 0 %}
+  <h2>Uncategorized</h2>
+  {% for item in uncategorized %}
+    {% assign post = item %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

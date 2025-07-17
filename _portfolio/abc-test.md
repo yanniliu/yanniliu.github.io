@@ -3,6 +3,6 @@ title: "ABC Test"
 excerpt: "Debugging"
 collection: portfolio
 category: ABC
-date: 2024-06-14
+date: 
 ---
 This is a minimal test.
