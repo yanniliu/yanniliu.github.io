@@ -4,28 +4,18 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
 {% include base_path %}
 
-{% assign cats = site.portfolio | map: 'category' | compact | uniq | sort %}
+{% assign cats = site.portfolio | map: 'category' | uniq %}
 {% for cat in cats %}
   <h2>{{ cat }}</h2>
   {% for item in site.portfolio %}
     {% if item.category == cat %}
-      {% assign post = item %}
-      {% include archive-single.html %}
+      {% include archive-single.html post=item %}
     {% endif %}
   {% endfor %}
 {% endfor %}
 
-{% comment %}
-  Output uncategorized items, if any
-{% endcomment %}
-{% assign uncategorized = site.portfolio | reject: "category" %}
-{% if uncategorized.size > 0 %}
-  <h2>Uncategorized</h2>
-  {% for item in uncategorized %}
-    {% assign post = item %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
