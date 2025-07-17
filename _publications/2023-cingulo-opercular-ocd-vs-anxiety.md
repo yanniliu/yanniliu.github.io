@@ -3,7 +3,7 @@ title: "Disorder-specific cingulo-opercular network hyperconnectivity in pediatr
 collection: publications
 category: manuscripts
 permalink: /publication/2021-cingulo-opercular-ocd-vs-anxiety/
-date: 2021-01-01
+date: 2023-01-01
 venue: "Psychological Medicine"
 excerpt: "Our findings indicate that previously noted network connectivity differences in pediatric patients with OCD were likely not attributable to co-morbid anxiety disorders. Moreover, these results suggest that specific patterns of hyperconnectivity within CON and between CON and OST circuitry may characterize OCD relative to non-OCD anxiety disorders in youth."
 paperurl: "https://pubmed.ncbi.nlm.nih.gov/37010220/"

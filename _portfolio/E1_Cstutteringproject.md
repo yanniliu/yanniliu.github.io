@@ -19,6 +19,10 @@ Collaborators: UM Speech Neurophysiology Lab
 
 *See related publications below.*
 
-Johnson CA, Liu Y, Waller N, Chang SE. Tract profiles of the cerebellar peduncles in children who stutter. Brain Struct Funct. 2022 Jun;227(5):1773-1787. doi: 10.1007/s00429-022-02471-4. Epub 2022 Feb 27. PMID: 35220486; PMCID: PMC9743081.
+**Liu Y**, Hampton Wray A, Hall M, Lescht ER, Gehring WJ, Fitzgerald KD, Chang SE. Brain response to errors in children who stutter. J Fluency Disord. 2024 Mar;79:106035. doi: 10.1016/j.jfludis.2023.106035. Epub 2023 Dec 27. PMID: 38160505; PMCID: PMC10939925.
 
-Garnett EO, Chow HM, Limb S, Liu Y, Chang SE. Neural activity during solo and choral reading: A functional magnetic resonance imaging study of overt continuous speech production in adults who stutter. Front Hum Neurosci. 2022 Jul 22;16:894676. doi: 10.3389/fnhum.2022.894676. PMID: 35937674; PMCID: PMC9353050.
+Johnson CA, **Liu Y**, Waller N, Chang SE. Tract profiles of the cerebellar peduncles in children who stutter. Brain Struct Funct. 2022 Jun;227(5):1773-1787. doi: 10.1007/s00429-022-02471-4. Epub 2022 Feb 27. PMID: 35220486; PMCID: PMC9743081.
+
+Garnett EO, Chow HM, Limb S, **Liu Y**, Chang SE. Neural activity during solo and choral reading: A functional magnetic resonance imaging study of overt continuous speech production in adults who stutter. Front Hum Neurosci. 2022 Jul 22;16:894676. doi: 10.3389/fnhum.2022.894676. PMID: 35937674; PMCID: PMC9353050.
+
+

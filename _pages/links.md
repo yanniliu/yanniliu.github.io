@@ -13,6 +13,40 @@ Here are some useful links related to my research, collaborations, and professio
 - [My Google Scholar Profile](https://scholar.google.com/citations?user=top4fSQAAAAJ&hl=en)
 - [My GitHub Repository](https://github.com/yanni6/)
 
+
+## fMRI Analysis Software & Resources
+
+- [SPM (Statistical Parametric Mapping)](https://www.fil.ion.ucl.ac.uk/spm/)
+- [AFNI (Analysis of Functional NeuroImages)](https://afni.nimh.nih.gov/)
+- [FSL (FMRIB Software Library)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+- [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
+- [TractSeg](https://github.com/MIC-DKFZ/TractSeg)
+- [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/)
+- [BrainNet Viewer](https://www.nitrc.org/projects/bnv/)
+- [CONN toolbox](https://web.conn-toolbox.org/)
+- [ME-ICA](https://github.com/ME-ICA)
+
+## EEG Analysis Software & Resources
+
+- [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
+- [FieldTrip](https://www.fieldtriptoolbox.org/)
+- [HAPPE (Harvard Automated Processing Pipeline for EEG)](https://www.plasticityinneurodevelopmentlab.com/implementing-happe)
+
+## Statistical Analysis Software
+
+- [RStudio](https://posit.co/products/open-source/rstudio/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+
+
+## Large-Scale Databases
+
+- [UK Biobank](https://www.ukbiobank.ac.uk/)
+- [ABCD Study (Adolescent Brain Cognitive Development)](https://abcdstudy.org/)
+- [HBCD (Healthy Brain and Child Development Study)](https://hbcdstudy.org/)
+- [OpenNeuro](https://openneuro.org/)
+- [Human Connectome Project](https://www.humanconnectome.org/)
+
+
 ## Professional Societies
 
 ### General Neuroscience & Cognitive Science
