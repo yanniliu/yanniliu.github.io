@@ -17,8 +17,7 @@ related_publications:
   - 2014-feedback-negativity-flanker
   - 2012-trial-by-trial-control-pedocd
   - 2010-chronic-medication-ocd
-  - 2009-loss-feedback-negativity-elicited
-  
+  - 2009-loss-feedback-negativity-elicited  
 ---
 
 This project investigates Error-Related Negativity and its association with performance monitoring in typical and atypical population

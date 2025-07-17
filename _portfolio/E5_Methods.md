@@ -1,31 +1,24 @@
 ---
-title: "Error-Related Negativity (ERN), Anxiety and Performance Monitoring"
-excerpt: " ERN and FRN "
+title: "Methods, Meta-Analyses, Reviews, and Large-Scale Imaging"
+excerpt: "  "
 collection: portfolio
-category: ERN
+category: Miscellaneous
 related_publications:
-  - 2012-error-related-negativity
-  - 2024-brain-response-errors-stutter
-  - 2024-altered-error-monitoring-flanker-pedocd
-  - 2023-midfrontal-theta-ocd-youth
-  - 2021-error-negativity-risk-resilience-children
-  - 2020-performance-monitoring-adhd
-  - 2020-diagnostic-biomarker-ern-gad
-  - 2019-error-negativity-anxiety-age-gender
-  - 2018-error-related-activity-ocd-mdd-adolescents
-  - 2016-withdrawn-depressed-ocd
-  - 2014-feedback-negativity-flanker
-  - 2012-trial-by-trial-control-pedocd
-  - 2010-chronic-medication-ocd
-  - 2009-loss-feedback-negativity-elicited
-  
+
+  - 2016-developmental-neuroimaging-ocd
+  - 2019-error-processing-inhibitory-control-ocd
+  - 2022-medication-subcortical-morphology-ocd-enigma
+  - 2020-subcortical-enigma-adhd-asd-ocd 
+  - 2020-structural-neuroimaging-biomarkers-ocd  
+  - 2018-cortical-abnormalities-enigma-ocd
+  - 2017-subcortical-volume-alterations-ocd
 ---
 
-This project investigates Error-Related Negativity and its association with performance monitoring in typical and atypical population
+This project investigates cognition and brain functions in large-scale populations
+
 **Key findings:** it is coming soon.
 
-Collaborators: Dr. William Gehring and Dr. Gregory Hanna
+Collaborators: 
 
 *See related publications below.*
 
-Gehring WJ, Liu Y, Orr JM, Carp J. The error-related negativity (ERN/Ne). Oxford handbook of event-related potential components. 2012:231-91.
