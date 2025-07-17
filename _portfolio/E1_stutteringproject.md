@@ -3,7 +3,7 @@ title: "Neural Basis of Stuttering"
 excerpt: "Multimodal neuroimaging sheds light on error processing in people who stutter."
 collection: portfolio
 category: Speech and Language
-date: 2024
+date: 2024-05-15
 related_publications:
   - 2024-brain-response-to-errors-stutter
   - 2022-tract-cerebellar-peduncles-stutter
