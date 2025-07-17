@@ -14,7 +14,7 @@ related_publications:
   - 2017-subcortical-volume-alterations-ocd
 ---
 
-This project investigates cognition and brain functions in large-scale populations
+This project investigates cognition and brain functions in large-scale populations.
 
 **Key findings:** it is coming soon.
 

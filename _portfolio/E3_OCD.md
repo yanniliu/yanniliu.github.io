@@ -21,6 +21,7 @@ related_publications:
 ---
 
 This project investigates altered cognitive and brain function in OCD.
+
 **Key findings:** 
 
 Collaborators: Dr. William Gehring, Dr. Gregory Hanna and Dr. Kate Fitzgerald

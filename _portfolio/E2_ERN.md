@@ -18,9 +18,12 @@ related_publications:
   - 2012-trial-by-trial-control-pedocd
   - 2010-chronic-medication-ocd
   - 2009-loss-feedback-negativity-elicited  
+  
 ---
 
-This project investigates Error-Related Negativity and its association with performance monitoring in typical and atypical population
+This project investigates Error-Related Negativity and its association with performance monitoring in typical and atypical population.
+
+
 **Key findings:** it is coming soon.
 
 Collaborators: Dr. William Gehring and Dr. Gregory Hanna

@@ -12,6 +12,7 @@ related_publications:
 ---
 
 This project investigates cognition and emoton regulation.
+
 **Key findings:** 
 
 Collaborators: 

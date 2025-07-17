@@ -17,6 +17,7 @@ related_publications:
 ---
 
 This project investigates altered cognitive and brain function in pediatric anxiety.
+
 **Key findings:** 
 
 Collaborators: Dr. William Gehring, Dr. Gregory Hanna and Dr. Kate Fitzgerald

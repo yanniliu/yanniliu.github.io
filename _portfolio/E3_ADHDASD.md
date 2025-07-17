@@ -13,6 +13,7 @@ related_publications:
 ---
 
 This project investigates altered cognitive and brain function in ADHD and ASD.
+
 **Key findings:** 
 
 Collaborators: Dr. Marce Just, Dr. William Gehring and Dr. Gregory Hanna 
