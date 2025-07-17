@@ -13,6 +13,29 @@ Here are some useful links related to my research, collaborations, and professio
 - [My Google Scholar Profile](https://scholar.google.com/citations?user=top4fSQAAAAJ&hl=en)
 - [My GitHub Repository](https://github.com/yanni6/)
 
+## Experimental Design & Stimulus Presentation Software
+
+- [E-Prime](https://pstnet.com/products/e-prime/) — Commercial software for designing and running behavioral and neuroimaging experiments.
+- [Presentation](https://www.neurobs.com/) — Precision stimulus delivery and experiment control for cognitive neuroscience.
+- [PsychoPy](https://www.psychopy.org/) — Open-source platform for creating behavioral experiments in Python.
+- [MATLAB Psychtoolbox](http://psychtoolbox.org/) — Toolkits for precise stimulus presentation and response collection in MATLAB.
+
+## Neuroscience Equipment Vendors
+
+### EEG Systems
+
+- [BrainVision](https://www.brainvision.com/) — EEG amplifiers and acquisition solutions.
+- [BioSemi](https://www.biosemi.com/) — Active electrode EEG systems.
+- [EGI (Electrical Geodesics, Inc.)](https://www.egi.com/research-division/eeg-systems/geodesic-eeg-systems) — High-density EEG systems and sensor nets.
+
+### Noninvasive Brain Stimulation
+
+- [Soterix Medical](https://soterixmedical.com/) — Devices for tACS, tDCS, and other noninvasive brain stimulation protocols.
+
+### Functional Near-Infrared Spectroscopy (fNIRS)
+
+- [NIRx](https://nirx.net/) — fNIRS brain imaging systems.
+
 
 ## fMRI Analysis Software & Resources
 
@@ -29,11 +52,13 @@ Here are some useful links related to my research, collaborations, and professio
 - [NeuroQuery](https://neuroquery.org/)
 - [MRIcron](https://www.nitrc.org/projects/mricron)
 
+
 ## EEG Analysis Software & Resources
 
 - [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 - [FieldTrip](https://www.fieldtriptoolbox.org/)
 - [HAPPE (Harvard Automated Processing Pipeline for EEG)](https://www.plasticityinneurodevelopmentlab.com/implementing-happe)
+
 
 ## Statistical Analysis Software
 
