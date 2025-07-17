@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <div class="portfolio-page">
-  {% assign cats = "Speech and Language|Neurodevelopment|ABC" | split: "|" %}
+  {% assign cats = "Speech and Language|ERN|Psychiatry and Neurodevelopmental Disorders|Cognition and Emotion|Miscellaneous" | split: "|" %}
   {% for cat in cats %}
     <h2>{{ cat }}</h2>
     {% for item in site.portfolio %}
