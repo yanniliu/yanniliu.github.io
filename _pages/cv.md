@@ -27,18 +27,31 @@ redirect_from:
 ## Skills
 
 - EEG and fMRI research design, implementation, and data analysis
+- Experimental design (behavioral, clinical, and imaging studies)
 - Clinical trial design and coordination
+- Comprehensive literature review and synthesis
+- Scientific writing and grant development
 - Statistical analysis:
   - Linear mixed-effects modeling
   - Generalized linear models
+  - Longitudinal data analysis
+  - Analysis of variance (ANOVA, repeated measures)
   - Non-parametric testing
+  - Permutation testing / Bootstrapping
+  - Power analysis and sample size calculation
 - Programming:
   - MATLAB
   - R
   - Shell scripting
   - Python
-- Scientific writing and grant development
-
+  - SQL
+- Neuroimaging/Analysis software:
+  - SPM
+  - Freesurfer
+  - EEGLAB
+  - SPSS
+  - R
+  
 ## Publications
 
 **Recent selected publications:**
