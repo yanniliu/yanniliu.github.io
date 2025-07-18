@@ -16,11 +16,11 @@ redirect_from:
 
 ## Work Experience
 
-- **University of Michigan**  
+- **University of Michigan, Department of Psychiatry**  
   _Associate Research Scientist_  
   Conduct neuroimaging research on behavioral and brain function, and develop and evaluate treatments (e.g., cognitive training and brain stimulation) in both typical and atypical development.
 
-- **Carnegie Mellon University**  
+- **Carnegie Mellon University, Department of Psychology**  
   _Postdoctoral Research Associate_  
   Conducted neuroimaging research in autism spectrum disorders.
 
