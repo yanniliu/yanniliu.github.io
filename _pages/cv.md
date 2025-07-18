@@ -20,10 +20,6 @@ redirect_from:
   _Associate Research Scientist_  
   Conduct neuroimaging research on behavioral and brain function, and develop and evaluate treatments (e.g., cognitive training and brain stimulation) in both typical and atypical development.
 
-- **University of Michigan**  
-  _Postdoctoral Research Associate_  
-  Investigated brain function in normal and abnormal brain development.
-
 - **Carnegie Mellon University**  
   _Postdoctoral Research Associate_  
   Conducted neuroimaging research in autism spectrum disorders.
